@@ -20,4 +20,6 @@ a very simple java app to get an animal name and image with an url hosted with i
 * a war file will be generated in target folder.
 
 # Deploy on AWS
-to do so we will use **_ELasticBeanStalk_**  
+we will use **_ELasticBeanStalk_**  
+[create-applications](https://us-west-1.console.aws.amazon.com/elasticbeanstalk/home?region=us-west-1#/applications
+)
