@@ -21,13 +21,13 @@ a very simple java app to get an animal name and image with an url hosted with i
 
 # Deploy on AWS
 we will use **_ELasticBeanStalk_**  
-[create-applications](https://us-west-1.console.aws.amazon.com/elasticbeanstalk/home?region=us-west-1#/applications
+* [create-applications](https://us-west-1.console.aws.amazon.com/elasticbeanstalk/home?region=us-west-1#/applications
 )
-choose Application name : `AnimalsApi`
-choose platform : `Tomcat`
-choose platform branch : `Tomcat with java` latest verison
-upload application code from local machine 
-create Application 
+* choose Application name : `AnimalsApi`
+* choose platform : `Tomcat`
+* choose platform branch : `Tomcat with java` latest verison
+* upload application code from local machine 
+* click on create Application 
 
 # Run 
 After successful submission for first time a url is generated that 
