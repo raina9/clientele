@@ -30,6 +30,5 @@ we will use **_ELasticBeanStalk_**
 * click on create Application 
 
 # Run 
-After successful submission for first time a url is generated that 
-can be later used to open the app.
-all features of the app are now available wit url.
+After successful creation of Application for first time a url is generated that can be later used to open the app.
+that url can be used later to run the `AnimalsApi.`
