@@ -27,7 +27,7 @@ we will use **_ELasticBeanStalk_**
 * choose platform : `Tomcat`
 * choose platform branch : `Tomcat with java` latest verison
 * upload application code from *local machine/S3 url.*
-* click on create Application 
+* click on `create Application` 
 
 # Run 
 After successful creation of Application for first time a url is generated that can be later used to open the app.
