@@ -13,7 +13,7 @@ a very simple java app to get an animal name and image with an url hosted with i
  localhost:8080/
 
 # create .war file 
-* add packaging as war in pom.xml
+* add packaging as war in pom.xml `<packaging>war</packaging>`
 * click on project 
 * run as : maven build...
 * write clean package as goal 
