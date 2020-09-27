@@ -26,7 +26,7 @@ we will use **_ELasticBeanStalk_**
 * choose Application name : `AnimalsApi`
 * choose platform : `Tomcat`
 * choose platform branch : `Tomcat with java` latest verison
-* upload application code from local machine 
+* upload application code from *local machine/S3 url.*
 * click on create Application 
 
 # Run 
