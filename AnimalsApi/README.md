@@ -15,6 +15,8 @@ a very simple java app to get an animal name and image with an url hosted with i
 # create .war file 
 * add packaging as war in pom.xml `<packaging>war</packaging>`
 * click on project 
-* run as : maven build...
-* write clean package as goal 
+* run as : `maven build...`
+* `clean package` as goal 
 * a war file will be generated in target folder.
+
+# Deploy on AWS. 
