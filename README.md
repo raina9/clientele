@@ -10,7 +10,11 @@ a very simple java app to get an animal name and image with an url hosted with i
 * select archive and let eclipse setup the project
 
 # Run
- localhost:8080/
+* once setup completed open project.
+* browse `src/main/java` package.
+* locate package containing `AnimalsApiApplication.java` file. 
+* select `AnimalsApiApplication.java` and choose Run as :`Java Application`.
+* to view on browser hit :`localhost:8080/`.
 
 # create .war file 
 * add packaging as war in pom.xml `<packaging>war</packaging>`
